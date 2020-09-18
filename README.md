@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center"><img align="center" width="300" src="logo.png" alt="DjangoX logo"></h1>
 
 > A Django starter project that "just works." For a production-ready version see the book [Django for Professionals](https://djangoforprofessionals.com).
@@ -82,3 +83,6 @@ $ docker-compose run --rm web pip-compile requirements/requirements.in
 - [Configuring Facebook](http://www.sarahhagstrom.com/2013/09/the-missing-django-allauth-tutorial/#Create_and_configure_a_Facebook_app)
 - [Configuring Github](https://wsvincent.com/django-allauth-tutorial/)
 - `django-allauth` supports [many, many other providers in the official docs](https://django-allauth.readthedocs.io/en/latest/providers.html) -->
+=======
+# myportfolio
+>>>>>>> f4472d37a96eeeaca8000f713fb48244893ce6cd
