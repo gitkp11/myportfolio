@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <h1 align="center"><img align="center" width="300" src="logo.png" alt="DjangoX logo"></h1>
 
 > A Django starter project that "just works." For a production-ready version see the book [Django for Professionals](https://djangoforprofessionals.com).
@@ -86,3 +87,6 @@ $ docker-compose run --rm web pip-compile requirements/requirements.in
 =======
 # myportfolio
 >>>>>>> f4472d37a96eeeaca8000f713fb48244893ce6cd
+=======
+
+>>>>>>> f5c12949db72f03e3a304a2da33aed31b2e44f62
